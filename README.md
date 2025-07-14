@@ -13,7 +13,7 @@ What are you using as an alternative to...?
 | GDrive               | Seafile       |
 | Figma                | Penpot        |
 | ChatGPT              | Ollama        |
-| Airtable             | Teable         |
+| Airtable             | Teable        |
 | Google Sheets        | Grist         |
 | Google Analytics     | Aptabase      |
 | Zapier               | Activepieces  |
@@ -24,5 +24,6 @@ What are you using as an alternative to...?
 | Todoist              | Memos         |
 | Netflix              | Jellyfin      |
 | Tidal                | Navidrome     |
-| LernDash             | ClassroomIO    |
-| Webflow              | Webstudio|
+| LernDash             | ClassroomIO   |
+| Webflow              | Webstudio     |
+| Lexware              | ERPNext       |
